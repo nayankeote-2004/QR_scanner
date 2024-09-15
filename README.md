@@ -29,7 +29,7 @@ Firebase project set up with Firestore enabled.
 An Android/iOS emulator or a physical device for testing.
 Installation
 Clone the Repository:
-git clone https://github.com/nayankeote-2204/QR_scanner.git
+git clone [https://github.com/nayankeote-2204/QR_scanner.git](https://github.com/nayankeote-2004/QR_scanner)
 cd QR_scanner
 Install Dependencies:
 flutter pub get
